@@ -1,0 +1,14 @@
+Begin
+numeric number
+print("Enter the number")
+if num>0
+print("positive number");
+else num ==0
+print("zero")
+{
+else:
+}
+print("negative");
+end
+
+
