@@ -1,0 +1,22 @@
+Begin
+numeric a,b,c;
+printf("Enter withdraw number")
+input amount
+if(amount%100 == 0) {
+if(amount>=500) {
+a=amount/500;
+amount=amount%500
+printf("500 rupees notes are ", a);
+}
+if(amount>=200) {
+b=amount/200;
+amount=amount%200
+printf("200 rupees notes are ", b);
+}
+if(amount >= 100) {
+c=amount/100
+printf("100 rupees notes are ", c);
+}
+end
+
+
