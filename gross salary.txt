@@ -1,0 +1,10 @@
+Begin
+numeric basic,gs,hra,da
+print("Enter the basic")
+input basic
+hra = (56*100)/basic
+da = (78*100)/basic
+print("GS");
+gs = basic+hra+da
+End
+
