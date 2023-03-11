@@ -1,0 +1,14 @@
+Begin
+numeric salary1,salary2,salary3,total = 0
+print("Enter the basics")
+print("Enter values s1,s2,s3,");
+input salary1
+input salary2
+input salary3
+print("Total")
+Total = (s1+s2+s3")
+input(Total);
+percentage("Total/3");
+print("percentage")
+End
+
